@@ -7,7 +7,7 @@
 #include <string>
 #include <algorithm>
 
-int main()
+int day1()
 {
 	std::vector<int> vec;
 	std::ifstream file("dataDay1.txt");
