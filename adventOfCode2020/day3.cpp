@@ -27,7 +27,6 @@ void calculateTrees(const std::vector<std::string>& map, std::vector<std::pair<i
 			currentX += positions[i].first;
 			currentY += positions[i].second;
 		}
-		std::cout << trees << std::endl;
 		result *= trees;
 	}
 	std::cout << result << std::endl;
