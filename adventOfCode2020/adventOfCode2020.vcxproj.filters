@@ -21,6 +21,9 @@
     <ClCompile Include="day2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="day3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
@@ -37,6 +40,9 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="dataDay2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="dataDay3.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>

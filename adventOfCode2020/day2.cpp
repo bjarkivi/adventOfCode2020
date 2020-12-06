@@ -23,7 +23,7 @@ std::tuple<int, int, char, std::string> getParams(const std::string& str)
 }
 
 
-int main()
+int day2()
 {
 	std::ifstream file("dataDay2.txt");
 	if (file.is_open())
